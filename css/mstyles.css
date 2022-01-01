@@ -1,0 +1,171 @@
+
+body{
+margin: 0;
+margin-top: -50px;
+text-align: center;
+font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+
+
+
+}
+
+.logo{
+  width: 70px;
+  position: absolute;
+  left: 13px;
+  top: 5px;
+}
+.top-container{
+background-color: #e0ebe8;
+}
+.main-menu{
+  font-weight: 400;
+  font-size: 80%;
+  letter-spacing: 2px;
+  background-color: #e0ebe8;
+  margin-top: 50px;
+  font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+
+}
+.main{
+  text-decoration: none;
+  color: #040303;
+  color: #45b29a;
+}
+.main:hover{
+  color: grey;
+  text-decoration: none;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+.top-cloud{
+  margin-top: 60px;
+  margin-left: 45%;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.name{
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-family: 'Waterfall', cursive;
+  font-size: 80px;
+  color: #22577A;
+  font-weight: bold;
+}
+.slogan{
+  font-size: 20px;
+  color: #22577A;
+}
+
+
+.middle-container{
+  background-color: white;
+}
+.cartoon-pic1{
+  width: 25%;
+}
+.hi{
+  color:#45b29a;
+}
+.text1{
+  color: #545454;
+  font-size: 1em;
+  font-weight: 500;
+  text-align: center;
+  line-height: 25px;
+}
+.hr1, .line1, .line2, .line3{
+  width: 5%;
+  margin: 0 auto;
+  border-style: none;
+  border-top: dotted 5px #e0ebe8;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.text2{
+  color: #1e836c;
+  font-size: 30px;
+  font-weight: 400;
+}
+.cartoon-pic2{
+  width: 25%;
+}
+.pen1{
+  width: 20%;
+}
+.quest1{
+  color: #45b29a;
+  font-size: 20px;
+}
+.text3{
+  margin-top: 10%;
+  text-align: justify, center;
+  text-justify: inter-word;
+  color: #545454;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 25px;
+}
+
+.devicon{
+  width: 20%;
+  margin-top: 10%;
+}
+.quest2{
+  color: #45b29a;
+  font-size: 20px;
+}
+.text4{
+  margin-top: 10%;
+  text-align: justify, center;
+  text-justify: inter-word;
+  color: #545454;
+}
+.cartoon-pic3{
+  width: 25%;
+}
+.text5{
+  color: #1e836c;
+  font-size: 30px;
+  font-weight: 400;
+}
+.text6{
+  color: #45b29a;
+  margin-top: 5%;
+}
+.text7{
+  color: #545454;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 25px;
+  text-align: justify, center;
+  text-justify: inter-word;
+}
+.contact-btn{
+  background: #45b29a;
+  color: #1b7f69;
+  padding:10px;
+  text-decoration: none;
+  position: relative;
+  top: 30px;
+}
+
+
+
+.footer{
+  background-color: #c5ded7;
+  margin-top: 70px;
+  padding: 40px;
+
+}
+.links{
+  text-decoration:none;
+  color:#45b29a;
+}
+.reserved{
+  font-size: 13px;
+  color:#45b29a;
+  position: relative;
+  top: 30px;
+
+}
