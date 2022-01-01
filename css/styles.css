@@ -87,7 +87,7 @@ background-color: #e0ebe8;
   font-size: 1em;
   font-weight: 500;
   text-align: center;
-  line-height: 35px;
+  line-height: 25px;
 }
 .hr1{
   width: 5%;
@@ -170,6 +170,9 @@ background-color: #e0ebe8;
   left: 19%;
   text-align: justify;
   text-justify: inter-word;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 25px;
   color: #545454;
   font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
 }
